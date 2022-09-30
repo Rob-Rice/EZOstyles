@@ -4871,6 +4871,7 @@ body .sd-social-official li.share-print {display: inline-block !important;}
 	 }
 	 body.page-template.page-template-elementor_header_footer.page.page-id-2040.logged-in.admin-bar.theme-sydney-pro-ii.woocommerce-js.translatepress-en_US.no-hero.elementor-default.elementor-template-full-width.elementor-kit-5604.elementor-page.elementor-page-2040.customize-support.e--ua-blink.e--ua-chrome.e--ua-webkit>#content .elementor-section-wrap {
 		 display: flex;
+/* 		 -ms-ime-display: flex !important; */
 	 }
 	 body.page-template.page-template-elementor_header_footer.page.page-id-2040.logged-in.admin-bar.theme-sydney-pro-ii.woocommerce-js.translatepress-en_US.no-hero.elementor-default.elementor-template-full-width.elementor-kit-5604.elementor-page.elementor-page-2040.customize-support.e--ua-blink.e--ua-chrome.e--ua-webkit>.container {
 		 max-width: 95% !important;
@@ -4892,7 +4893,7 @@ body .sd-social-official li.share-print {display: inline-block !important;}
 		 padding-top: 10% !important;
 		 padding-bottom: 65% !important;
 	 }
-	 section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b2c4be.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default {
+	  body.page-template.page-template-elementor_header_footer.page.page-id-2040.logged-in.admin-bar.theme-sydney-pro-ii.woocommerce-js.translatepress-en_US.no-hero.elementor-default.elementor-template-full-width.elementor-kit-5604.elementor-page.elementor-page-2040.customize-support.e--ua-blink.e--ua-chrome.e--ua-webkit section.elementor-section.elementor-top-section.elementor-element.elementor-element-6b2c4be.elementor-section-boxed.elementor-section-height-default.elementor-section-height-default {
 		 display: none !important;
 	 }
 	 
@@ -4901,20 +4902,28 @@ body .sd-social-official li.share-print {display: inline-block !important;}
 	 }
 	 
 	 body.page-template.page-template-elementor_header_footer.page.page-id-2040.logged-in.admin-bar.theme-sydney-pro-ii.woocommerce-js.translatepress-en_US.no-hero.elementor-default.elementor-template-full-width.elementor-kit-5604.elementor-page.elementor-page-2040.customize-support.e--ua-blink.e--ua-chrome.e--ua-webkit>.elementor-column-gap-default>.elementor-row>.elementor-column>.elementor-element-populated>.elementor-widget-wrap {
-		 padding: 0 !important;
+/* 		 padding: 0 !important; */
 	 }
 	 
 	 body.page-template.page-template-elementor_header_footer.page.page-id-2040.logged-in.admin-bar.theme-sydney-pro-ii.woocommerce-js.translatepress-en_US.no-hero.elementor-default.elementor-template-full-width.elementor-kit-5604.elementor-page.elementor-page-2040.customize-support.e--ua-blink.e--ua-chrome.e--ua-webkit>.container {
-    margin-right: 0 !important;
-    margin-left: 0 !important;
+/*     margin-right: 0 !important;
+    margin-left: 0 !important; */
 	 }
 	 
 	 body.page-template.page-template-elementor_header_footer.page.page-id-2040.logged-in.admin-bar.theme-sydney-pro-ii.woocommerce-js.translatepress-en_US.no-hero.elementor-default.elementor-template-full-width.elementor-kit-5604.elementor-page.elementor-page-2040.customize-support.e--ua-blink.e--ua-chrome.e--ua-webkit>.elementor-widget-container {
 		 transform: rotate(270deg) !important;
 	 }
 	 
-	 body.page-template.page-template-elementor_header_footer.page.page-id-2040.logged-in.admin-bar.theme-sydney-pro-ii.woocommerce-js.translatepress-en_US.no-hero.elementor-default.elementor-template-full-width.elementor-kit-5604.elementor-page.elementor-page-2040.customize-support.e--ua-blink.e--ua-chrome.e--ua-webkit#content section {
-		 border-right: solid 1px black;
+	 body.page-template.page-template-elementor_header_footer.page.page-id-2040.logged-in.admin-bar.theme-sydney-pro-ii.woocommerce-js.translatepress-en_US.no-hero.elementor-default.elementor-template-full-width.elementor-kit-5604.elementor-page.elementor-page-2040.customize-support.e--ua-blink.e--ua-chrome.e--ua-webkit>#content section {
+/* 		 border-bottom: none !important;
+		 border-top: solid 1px black !important;
+		 border-left: solid 1px black !important;		 
+		 border-right: none !important; */
+		 border: none !important;
+	 }
+	 
+	 .elementor-column-gap-default>.elementor-row>.elementor-column>.elementor-element-populated>.elementor-widget-wrap {
+		 padding: 0px !important;
 	 }
 
 	 
